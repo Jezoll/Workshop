@@ -1,0 +1,28 @@
+C:\Projekty C++\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.csprojAssemblyReference.cache
+C:\Projekty C++\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE_I.Form1.resources
+C:\Projekty C++\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE_I.Form2.resources
+C:\Projekty C++\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE_I.Properties.Resources.resources
+C:\Projekty C++\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.csproj.GenerateResource.cache
+C:\Projekty C++\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.csproj.CoreCompileInputs.cache
+C:\Projekty C++\ZADANIE I\ZADANIE I\bin\Debug\ZADANIE I.exe.config
+C:\Projekty C++\ZADANIE I\ZADANIE I\bin\Debug\ZADANIE I.exe
+C:\Projekty C++\ZADANIE I\ZADANIE I\bin\Debug\ZADANIE I.pdb
+C:\Projekty C++\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.exe
+C:\Projekty C++\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.pdb
+C:\Projekty C++\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE_I.Rozliczenie.resources
+C:\Projekty C++\ZADANIE I\ZADANIE I\bin\Debug\ZADANIE I.exe.manifest
+C:\Projekty C++\ZADANIE I\ZADANIE I\bin\Debug\ZADANIE I.application
+C:\Projekty C++\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.exe.manifest
+C:\Projekty C++\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.application
+C:\Users\Dawid\OneDrive\Desktop\Dawid Jędrzejczak\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.csproj.AssemblyReference.cache
+C:\Users\Dawid\OneDrive\Desktop\Dawid Jędrzejczak\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dawid\OneDrive\Desktop\Dawid Jędrzejczak\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE_I.Form1.resources
+C:\Users\Dawid\OneDrive\Desktop\Dawid Jędrzejczak\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE_I.Form2.resources
+C:\Users\Dawid\OneDrive\Desktop\Dawid Jędrzejczak\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE_I.Properties.Resources.resources
+C:\Users\Dawid\OneDrive\Desktop\Dawid Jędrzejczak\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE_I.Rozliczenie.resources
+C:\Users\Dawid\OneDrive\Desktop\Dawid Jędrzejczak\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.csproj.GenerateResource.cache
+C:\Users\Dawid\OneDrive\Desktop\Dawid Jędrzejczak\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\OneDrive\Desktop\Dawid Jędrzejczak\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.exe
+C:\Users\Dawid\OneDrive\Desktop\Dawid Jędrzejczak\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE I.pdb
+C:\Users\Dawid\OneDrive\Desktop\Dawid Jędrzejczak\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE_I.SpisNapraw.resources
+C:\Users\Dawid\OneDrive\Desktop\Dawid Jędrzejczak\ZADANIE I\ZADANIE I\obj\Debug\ZADANIE_I.DodanieNaprawy.resources
